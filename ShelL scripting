@@ -1,0 +1,18 @@
+tirta0446@cloudshell:"/tugss.sistem.operasi (tenacious-tiger-444202-do) touch info.system.sh
+tirta0446@cloudshell:"/tugas.sistem.operasi (tenacious-tiger-444202-00)$ nano info system.sb
+tirta0440@cloudshell:"/tugos sistem.operasi (tenacious-tiger-444202-00)$ cat info.systen.sh
+1/bin/bash menampilkan waktu saat ini
+
+echo "waktu saat ini (date)"
+
+#menampilkan nama pengguna yang sedang login
+
+echo "pengguna yang sedang login 5 (whoans)
+
+@menampilkan total pengguna disk di sisten
+
+echo "total pengguna disk di sisten:"
+
+df -h grep #menampilkan informasi disk yang digunakan
+
+tirta0446@cloudshell:"/tugas.sistem.operasi (tenacious-tiger-446202-do)
